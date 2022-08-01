@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task2</string>
+    <string name="add">type</string>
+    <string name="del">Delete</string>
+    <string name="copy"><![CDATA[Copy>>]]></string>
+    <string name="copy2"><![CDATA[Copy<<]]></string>
+    <string name="move"><![CDATA[Move>>]]></string>
+    <string name="moveleft"><![CDATA[Move<<]]></string>
+    <string name="swap">Swap</string>
+    <string name="addData">Add</string>
+</resources>
